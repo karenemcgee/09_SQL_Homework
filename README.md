@@ -30,16 +30,32 @@ Using the SQL table, I created the following lists to analyze this segment of em
 
 1. Details of each employee: employee number, last name, first name, gender, and salary.
 
+![analysis1](analysis1.png)
+
 2. Employees who were hired in 1986.
+
+![analysis2](analysis2.png)
 
 3. Manager of each department with the following information: department number, department name, the manager's employee number, last name, first name, and start and end employment dates.
 
+![analysis3](analysis3.png)
+
 4. Department of each employee with the following information: employee number, last name, first name, and department name.
+
+![analysis4](analysis4.png)
 
 5. All employees whose first name is "Hercules" and last names begin with "B."
 
+![analysis5](analysis5.png)
+
 6. All employees in the Sales department, including their employee number, last name, first name, and department name.
+
+![analysis6](analysis6.png)
 
 7. All employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
+![analysis7](analysis7.png)
+
 8. In descending order, the frequency count of employee last names.
+
+![analysis8](analysis8.png)
